@@ -1,0 +1,3 @@
+1. load audio file.
+2. set durration and multiplication of duration.
+3. click on toggle to activate.
