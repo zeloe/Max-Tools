@@ -1,0 +1,14 @@
+1. load audio files.
+(optional: listen to dry)
+2. set time ms.
+(optional: set phase offset)
+(optional: use umenu with * and / to set time ms)
+3. select playbackmode
+4. select duration of envelope
+5. select envelope type (rect no envelope)
+(optional: select delay of envelope L (left channel))
+6. Acvitvate toggle for metro to listen
+
+resetcounter = to reset count
+clear = to clear buffer
+resetallvoices = clears buffer and resets all voices -> reload a sample from umenu 
